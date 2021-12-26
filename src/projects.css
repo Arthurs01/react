@@ -1,0 +1,35 @@
+.projects{
+    text-align: center;
+}
+.projects_img img{
+   
+   width: 250px;
+   height: 175px;
+   object-fit: cover;
+   display: flex;  
+   border-radius: 5px;
+   margin: 20px;
+}
+.projects_img img:hover{
+   
+  cursor: pointer;
+    box-shadow: 0 0 0.7142857142857143rem #cccccc;
+
+ }
+
+.projects_img{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+    
+      
+}
+
+@media(max-width:768px){
+    .projects{
+        text-align: center;
+    }
+}

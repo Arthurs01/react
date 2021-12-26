@@ -1,0 +1,45 @@
+.home_welcome{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0,0,0,0.5);
+    height: 100vh;
+    font-size: 35px;
+    
+ 
+}
+
+.boton_home{
+    box-shadow: 0 0 0.7142857142857143rem #cccccc;
+    padding: 10px ;
+    border-radius: 50px;
+    width: 200px;
+    cursor: pointer;
+    
+}
+.boton_home:hover{
+    box-shadow: 0 0 0.7142857142857143rem #eeeeee;
+    color: lawngreen;
+   
+    
+}
+
+.welcome_text{
+    color: lawngreen;
+}
+
+
+
+@media(max-width:768px){
+    .home_welcome{
+     font-size: 25px;
+        
+     
+    } 
+    .home_welcome p{
+        display: none;
+        
+    } 
+}
