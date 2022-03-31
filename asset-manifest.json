@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.d0e8c3a1.css",
-    "main.js": "/static/js/main.432f2572.js",
+    "main.css": "/static/css/main.3ab80c57.css",
+    "main.js": "/static/js/main.c1dcab29.js",
     "static/js/787.b39831d3.chunk.js": "/static/js/787.b39831d3.chunk.js",
-    "static/media/blueworld.mp4": "/static/media/blueworld.93e5dd0d0c34c6509f4c.mp4",
+    "static/media/greenworld.mp4": "/static/media/greenworld.86fe557bfde427b6f64d.mp4",
     "static/media/Technology.png": "/static/media/Technology.0a1fce30078fd6d790f7.png",
     "static/media/Business.png": "/static/media/Business.c80bd4a8a11116b320a5.png",
     "static/media/CryptoPage.PNG": "/static/media/CryptoPage.6289dec03cc4cc8509d5.PNG",
@@ -14,12 +14,12 @@
     "static/media/agooo.PNG": "/static/media/agooo.0d495a287e063ca940b8.PNG",
     "static/media/allien2.png": "/static/media/allien2.fd39ae7b613402d0df79.png",
     "index.html": "/index.html",
-    "main.d0e8c3a1.css.map": "/static/css/main.d0e8c3a1.css.map",
-    "main.432f2572.js.map": "/static/js/main.432f2572.js.map",
+    "main.3ab80c57.css.map": "/static/css/main.3ab80c57.css.map",
+    "main.c1dcab29.js.map": "/static/js/main.c1dcab29.js.map",
     "787.b39831d3.chunk.js.map": "/static/js/787.b39831d3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0e8c3a1.css",
-    "static/js/main.432f2572.js"
+    "static/css/main.3ab80c57.css",
+    "static/js/main.c1dcab29.js"
   ]
 }
